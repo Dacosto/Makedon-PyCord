@@ -1,2 +1,2 @@
 # Makedon-PyCord
-Makedon PyCord
+SOON MORE INFO
