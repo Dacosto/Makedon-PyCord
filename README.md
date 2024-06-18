@@ -5,13 +5,13 @@ The bots will run on same system like an OS and every other bot will get updates
 
 
 
-#Makedon-Idea-Development
+# Makedon-Idea-Development
 
 Currently i didnt do anything about the bot didnt write a single line of code because lack of time but i will develop it and release the code if someone finds a bug or suggestion contact me. 
 
 
 
-#Makedon-Version
+# Makedon-Version
 
 Makedon currently Version is  ![Static Badge](https://img.shields.io/badge/Makedon-V1.0.0-maker)
 
